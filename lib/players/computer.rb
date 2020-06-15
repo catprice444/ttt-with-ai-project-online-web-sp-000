@@ -10,7 +10,7 @@ module Players
       elsif board.cells[0] == " "
         "1"
       elsif board.cells[5] == " "
-        "4"
+        "6"
       elsif board.cells[8] == " "
         "9"
       elsif board.cells[7] == " "
